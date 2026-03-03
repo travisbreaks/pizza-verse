@@ -70,3 +70,9 @@ The pizza boasts a cracker-like crust that’s thicker than thin crust but thinn
 The crust is baked in a conveyor belt oven set at more than 500°F. “Then, we top it with a standard tomato sauce and bake it again,” says Ashley Genell Burke, granddaughter of one of the founders of Arcaro & Genell Pizzeria in Old Forge, which has been serving Old Forge-style pizza since 1962.
 
 The Old Forge favorite is in such hot demand that Genell ships the rectangular pizza all over the world. A whole pizza is “a tray,” not a pie. And there are no slices, just square cuts." [Regional styles ranging from Detroit to Old Forge are spreading across the country.](https://wearechefs.com/hot-stuff/#:~:text=The%20pizza%20boasts%20a%20cracker,American%2C%20mozzarella%20and%20cheddar%20cheeses.)
+
+### New Haven (Apizza)
+
+New Haven, Connecticut is home to one of America's most distinct regional pizza traditions, locally called "apizza" (pronounced "ah-beetz"). Brought by Southern Italian immigrants in the early 1900s, New Haven-style pizza is defined by its coal-fired, extremely high-heat bake that produces a charred, blistered, thin crust with a chewy interior. The shape is often irregular — oblong rather than perfectly round. Sauce is applied lightly, and the default is actually a tomato-garlic-oregano pie with no cheese (you add mozzarella separately). The most famous variation is the white clam pie: fresh littleneck clams, garlic, olive oil, oregano, and a dusting of pecorino on the signature dark crust — no tomato, no mozzarella.
+
+Legendary pizzerias Frank Pepe's (est. 1925), Sally's Apizza (est. 1938), and Modern Apizza anchor the "Wooster Street" pizza district and regularly appear on lists of America's best pizzerias.
