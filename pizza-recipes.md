@@ -733,3 +733,32 @@ Homemade Vegetarian Pizza was a recipe birthed from necessity. I wasn't happy wi
 - Preheat the oven to 400° degrees
 - Don't let the crust get more than a medium golden brown
 - Make sure you rub the spinach with olive oil before putting it on top of the pizza and wait till the last 5 minutes to put it on top of the pizza
+
+## Classic Margherita Pizza
+
+A simple, iconic Neapolitan pizza using just three toppings representing the colors of the Italian flag.
+
+### Ingredients
+
+- Pizza dough (store-bought or homemade)
+- 1/2 cup San Marzano crushed tomatoes
+- 1 cup fresh mozzarella, torn
+- Fresh basil leaves
+- 2 tbsp olive oil
+- Salt to taste
+
+### Instructions
+
+- Preheat oven to 500°F (or as high as it goes) with a pizza stone or baking sheet inside
+- Stretch dough into a thin round on a floured surface
+- Spread crushed tomatoes lightly over the dough, leaving a 1-inch border
+- Scatter fresh mozzarella pieces evenly over the sauce
+- Drizzle with olive oil and season with salt
+- Slide onto the hot stone and bake 8-10 minutes until crust is charred at edges and cheese is bubbly
+- Remove from oven and immediately top with fresh basil leaves
+
+### Pro-Tips
+
+- Use a hot pizza stone for the best crust — it mimics a brick oven
+- Less is more: don't overload the sauce or the crust will get soggy
+- Fresh mozzarella has more moisture than low-moisture; pat it dry before using
