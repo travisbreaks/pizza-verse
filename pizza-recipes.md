@@ -18,6 +18,7 @@ In this section, we invite you to explore a variety of delicious pizza recipes s
 - [Sisig Pizza](#sisig-pizza)
 - [Butter Chicken Pizza](#butter-chicken-pizza)
 - [Homemade Vegetarian Pizza](#homemade-vegetarian-pizza)
+- [Detroit-Style Pizza](#detroit-style-pizza)
 
 
 ### Margherita Pizza
@@ -762,3 +763,47 @@ A simple, iconic Neapolitan pizza using just three toppings representing the col
 - Use a hot pizza stone for the best crust — it mimics a brick oven
 - Less is more: don't overload the sauce or the crust will get soggy
 - Fresh mozzarella has more moisture than low-moisture; pat it dry before using
+
+## Detroit-Style Pizza
+
+Detroit-style pizza is a thick, rectangular pizza with a crispy, cheesy crust that originated in Detroit, Michigan in 1946 at Buddy's Rendezvous. What makes it unique is the use of blue steel pans (originally repurposed automotive parts trays from the auto industry), brick cheese pressed to the edges of the pan, and sauce ladled on top of the cheese in racing stripes. The result is a pillowy, airy dough with caramelized cheese edges called "frico."
+
+### Ingredients
+
+**Dough:**
+- 2 1/4 teaspoons (1 packet) active dry yeast
+- 1 cup warm water (110F/43C)
+- 1 teaspoon sugar
+- 2 1/2 cups bread flour
+- 1 teaspoon salt
+- 2 tablespoons olive oil
+
+**Toppings:**
+- 10 oz Wisconsin brick cheese (or low-moisture mozzarella), cubed
+- 1/2 cup pepperoni slices
+- 3/4 cup pizza sauce (tomato-based, slightly sweet)
+
+### Instructions
+
+1. **Make the dough:** Dissolve the yeast and sugar in warm water. Let stand for 5-10 minutes until foamy. In a large bowl, combine bread flour and salt. Add the yeast mixture and olive oil. Mix until a shaggy dough forms, then knead for 5-7 minutes until smooth and elastic.
+
+2. **First rise:** Place the dough in a lightly oiled bowl, cover with plastic wrap, and let rise in a warm place for 1 to 1.5 hours until doubled in size.
+
+3. **Prepare the pan:** Generously grease a 10x14-inch steel or dark metal pan with olive oil or butter. Press the dough into the pan, stretching it to the edges and up the sides. If the dough springs back, let it rest for 10 minutes and try again.
+
+4. **Second rise:** Cover the pan and let the dough rise for another 30-45 minutes until puffy.
+
+5. **Add cheese and toppings:** Preheat oven to 550F (288C) or as high as your oven goes. Distribute the cubed brick cheese evenly over the dough, pressing pieces into the edges of the pan so the cheese will caramelize against the sides. Scatter pepperoni over the cheese.
+
+6. **Bake:** Place the pan on the lowest oven rack and bake for 12-15 minutes until the cheese is deeply golden and the edges are dark and crispy.
+
+7. **Add sauce:** Remove from oven. Spoon the pizza sauce in two or three thick lines ("racing stripes") across the top of the pizza. Do not spread the sauce to the edges.
+
+8. **Rest and serve:** Let the pizza cool in the pan for 3-5 minutes. Use a metal spatula to loosen the edges, then lift the pizza out. Cut into squares and serve.
+
+### Pro-Tips
+
+- Brick cheese is the traditional choice and worth seeking out; it melts beautifully and has a buttery, tangy flavor that low-moisture mozzarella cannot fully replicate
+- The pan matters: a dark steel pan conducts heat better and creates the signature crispy bottom and caramelized cheese edges
+- Sauce goes on top, after baking. This keeps the dough from getting soggy and is the defining visual feature of a true Detroit-style pizza
+- For extra flavor, let the dough cold-ferment in the refrigerator for 24-72 hours before shaping
