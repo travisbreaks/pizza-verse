@@ -37,6 +37,7 @@ We've categorized the facts into different sections to help explore the diverse 
   - Readers vote on their favorites in three categories: Best Overall Pizza, Best Traditional Pizza, and Most Creative Pizza.
   - Visit the [Pizza Week 2025 site](https://www.fwpublishingevents.com/pizza-week-2025).
   - The Scene holds similar weeks for hamburgers, tacos, and hot chicken. They encourage customers to tip on the original price and not the event discount rate.
+- The mathematical formula for the volume of a pizza is "Pi * z * z * a." If a pizza has radius "z" and height "a," its volume is calculated as Pi * z^2 * a, which spells out "pizza." This coincidence has made it a favorite fun fact among math teachers and pizza lovers alike.
 
 
 ## Pizza Trivia
