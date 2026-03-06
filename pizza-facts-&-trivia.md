@@ -57,3 +57,5 @@ Delight in intriguing and lesser-known facts that will surprise and entertain yo
   - Mayonnaise
 - What unusual pizza topping can be found in France, Belgium or Italy?
   - In some European countries, especially France, Belgium, or Italy (and maybe elsewhere in the world), some people like to add french fries as topping for pizzas. One call it Pizza Patatine (or Pizza Patatosa), and Domino's already launched such pizzas for a limited time (in 2023 in France).
+- Which US city is famous for "apizza" — a coal-fired pizza where white clam pizza is an iconic topping?
+  - New Haven, Connecticut. Pizzerias like Frank Pepe's have been making white clam pizza — topped with fresh littleneck clams, garlic, olive oil, and oregano on a thin, charred crust — since 1925.
