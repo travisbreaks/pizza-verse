@@ -27,6 +27,7 @@ If your hometown or country has a traditional food (especially if it's your favo
 - [Asia](#asia)
   - [India](#india)
   - [Indonesia](#indonesia)
+  - [Japan](#japan)
   - [Philippines](#philippines)
 - [Australia / Oceania](#australia--oceania)
 
@@ -81,6 +82,14 @@ A samosa is a popular fried or baked pastry with a savory filling, often consist
 The filling of a samosa typically includes spiced potatoes, peas, and sometimes lentils or ground meat like lamb or chicken, flavored with a blend of spices such as cumin, coriander, and garam masala. Samosas are often enjoyed with dipping sauces such as tamarind chutney, mint-coriander chutney, or yogurt-based raita, which complement the spicy filling with their tangy and refreshing flavors.
 
 <img src="images/samora.jpg" width="408" alt="A delicious samosa">
+
+### Japan
+
+#### Okonomiyaki
+
+Okonomiyaki is a savory Japanese pancake whose name literally translates to "grilled as you like it." Originating in the Osaka and Hiroshima regions, this dish features a batter of flour, eggs, shredded cabbage, and a variety of mix-ins such as sliced pork belly, shrimp, squid, or cheese. The Osaka style mixes all ingredients into the batter before cooking on a griddle, while the Hiroshima style layers the ingredients with yakisoba noodles and a fried egg.
+
+Okonomiyaki is finished with a sweet and tangy okonomiyaki sauce (similar to Worcestershire), Japanese mayonnaise drizzled in a crosshatch pattern, bonito flakes (katsuobushi) that dance in the rising heat, and a sprinkle of dried seaweed (aonori). It is a popular street food and home-cooked meal, often prepared at the table on a built-in teppan griddle at dedicated okonomiyaki restaurants.
 
 ### Indonesia
 
