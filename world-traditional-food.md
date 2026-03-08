@@ -27,6 +27,7 @@ If your hometown or country has a traditional food (especially if it's your favo
 - [Asia](#asia)
   - [India](#india)
   - [Indonesia](#indonesia)
+  - [Japan](#japan)
   - [Philippines](#philippines)
 - [Australia / Oceania](#australia--oceania)
 
@@ -92,6 +93,16 @@ Rendang is traditionally served at ceremonial occasions to honour guests during 
 
 <img src="https://indonesiakaya.com/wp-content/uploads/2023/04/ren_Artboard_4.jpg" width="400" alt="rendang indonesian food">
 
+### Japan
+
+#### Ramen
+
+Ramen is a Japanese noodle soup dish that has evolved from Chinese wheat noodles into one of Japan's most beloved comfort foods. A bowl of ramen features wheat noodles served in a rich, carefully crafted broth — the most common styles are shōyu (soy sauce), miso, shio (salt), and tonkotsu (pork bone). Each region of Japan has its own signature variation: Sapporo is known for hearty miso ramen topped with corn and butter, Hakata for its creamy white tonkotsu, and Tokyo for a lighter shōyu broth.
+
+Toppings typically include chashu (braised pork belly), soft-boiled marinated eggs (ajitsuke tamago), nori seaweed, bamboo shoots (menma), and green onions. Ramen shops (ramen-ya) are found on nearly every street corner in Japan, and many have cult followings with lines stretching around the block.
+
+While instant ramen was invented in 1958 by Momofuku Ando and spread globally, authentic shop-made ramen broth is simmered for many hours — sometimes overnight — to achieve its depth of flavor.
+
 ### Philippines
 
 #### Adobong Manok
@@ -107,13 +118,3 @@ The cooking process usually involves marinating the chicken in a mixture of thes
 **Image source:** Joy D. Ganaden, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
 
 ## Australia / Oceania
-
-### Japan
-
-#### Ramen
-
-Ramen is a Japanese noodle soup dish that has evolved from Chinese wheat noodles into one of Japan's most beloved comfort foods. A bowl of ramen features wheat noodles served in a rich, carefully crafted broth — the most common styles are shōyu (soy sauce), miso, shio (salt), and tonkotsu (pork bone). Each region of Japan has its own signature variation: Sapporo is known for hearty miso ramen topped with corn and butter, Hakata for its creamy white tonkotsu, and Tokyo for a lighter shōyu broth.
-
-Toppings typically include chashu (braised pork belly), soft-boiled marinated eggs (ajitsuke tamago), nori seaweed, bamboo shoots (menma), and green onions. Ramen shops (ramen-ya) are found on nearly every street corner in Japan, and many have cult followings with lines stretching around the block.
-
-While instant ramen was invented in 1958 by Momofuku Ando and spread globally, authentic shop-made ramen broth is simmered for many hours — sometimes overnight — to achieve its depth of flavor.
